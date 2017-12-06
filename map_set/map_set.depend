@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1493292273 source:d:\c++ primer\map_set\main.cpp
+	<iostream>
+	<set>
+	<map>
+	<string>
+	<cctype>
+	<algorithm>
+	<vector>
+	<fstream>
+	<list>
+	<sstream>
+	<unordered_map>
+	<iterator>
+	"StrBlob.h"
+	<string.h>
+
+1493445973 d:\c++ primer\map_set\strblob.h
+	<memory>
+
